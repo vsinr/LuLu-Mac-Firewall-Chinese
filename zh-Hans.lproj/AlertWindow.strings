@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1zg-95-QM7.title</key>
+	<string>- 签名授权 2</string>
+	<key>2iW-bn-Rov.title</key>
+	<string>签名 ID：</string>
+	<key>31V-e4-dgv.title</key>
+	<string>端口/协议：</string>
+	<key>80z-6q-eWC.title</key>
+	<string>进程持续时间</string>
+	<key>8eV-Ag-i7n.title</key>
+	<string>连接：</string>
+	<key>9OD-rL-0J2.title</key>
+	<string>规则持续时间：</string>
+	<key>9Yb-sJ-Kcj.title</key>
+	<string>不适用</string>
+	<key>D1C-aK-AFU.title</key>
+	<string>签名授权：</string>
+	<key>F0z-JX-Cv5.title</key>
+	<string>LuLu 警告</string>
+	<key>FLb-1c-otA.title</key>
+	<string>- 签名授权 3</string>
+	<key>FYF-6N-pro.title</key>
+	<string>详情与选项</string>
+	<key>Fxr-aW-bT2.title</key>
+	<string>DNS（反向）：</string>
+	<key>G2Q-QQ-EX7.title</key>
+	<string>规则范围：</string>
+	<key>Gqr-cR-TAF.title</key>
+	<string>路径：</string>
+	<key>HBz-tK-Y6f.title</key>
+	<string>签名 ID</string>
+	<key>HZu-Op-XHi.title</key>
+	<string>PID：</string>
+	<key>Iys-aY-OZ4.title</key>
+	<string>进程</string>
+	<key>JEi-1U-vkU.title</key>
+	<string>进程名称</string>
+	<key>JFW-5C-nvy.headerCell.title</key>
+	<string>名称</string>
+	<key>Ki9-ld-5Xu.title</key>
+	<string>- 签名授权 1</string>
+	<key>N6E-eT-Q39.title</key>
+	<string>远程端点</string>
+	<key>Pp2-2W-YkT.title</key>
+	<string>进程：</string>
+	<key>Ssw-3u-wEC.title</key>
+	<string>消息</string>
+</dict>
+</plist> 

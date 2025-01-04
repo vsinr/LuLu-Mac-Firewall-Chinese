@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Detection Ratio: </key>
+	<string>检测比率：</string>
+	<key>Received invalid response</key>
+	<string>收到无效响应</string>
+	<key>View VirusTotal's </key>
+	<string>查看 VirusTotal 的</string>
+	<key>not found on VirusTotal</key>
+	<string>在 VirusTotal 上未找到</string>
+	<key> has a signing issue</key>
+	<string>存在签名问题</string>
+	<key> is not signed</key>
+	<string>未签名</string>
+	<key> is not validly signed</key>
+	<string>签名无效</string>
+	<key> is validly signed</key>
+	<string>签名有效</string>
+	<key> signed by 3rd-party/ad hoc</key>
+	<string>由第三方/临时签名</string>
+	<key> temporarily (pid: %@)</key>
+	<string>临时 (pid: %@)</string>
+	<key> unknown</key>
+	<string>未知</string>
+	<key>%@ (pid: %@)</key>
+	<string>%1$@ (pid: %2$@)</string>
+	<key>%@ (signer: %@)</key>
+	<string>%1$@ (签名者: %2$@)</string>
+	<key>%@ (signer: Apple Mac OS App Store)</key>
+	<string>%@ (签名者: Apple Mac OS App Store)</string>
+	<key>%@ (signer: Apple Proper)</key>
+	<string>%@ (签名者: Apple 官方)</string>
+	<key>%@ (signer: invalid/unsigned)</key>
+	<string>%@ (签名者: 无效/未签名)</string>
+	<key>%@ does not exist!</key>
+	<string>%@ 不存在！</string>
+	<key>%@ is legitimate macOS process</key>
+	<string>%@ 是合法的 macOS 进程</string>
+	<key>%@ is not a valid (port) number</key>
+	<string>%@ 不是有效的端口号</string>
+	<key>LuLu: disabled</key>
+	<string>LuLu: 已停用</string>
+	<key>LuLu: enabled</key>
+	<string>LuLu: 已启用</string>
+	<key>Disable</key>
+	<string>停用</string>
+	<key>Enable</key>
+	<string>启用</string>
+	<key>Allow Installed Programs</key>
+	<string>允许已安装的程序</string>
+	<key>Allow DNS Traffic</key>
+	<string>允许 DNS 流量</string>
+	<key>All (UDP) traffic on port 53 will be allowed.</key>
+	<string>将允许端口 53 上的所有 (UDP) 流量。</string>
+	<key>Allow Simulator Applications</key>
+	<string>允许模拟器应用程序</string>
+	<key>Applications running within the simulator will be allowed.</key>
+	<string>将允许在模拟器中运行的应用程序。</string>
+	<key>Mode</key>
+	<string>模式</string>
+	<key>Lists</key>
+	<string>列表</string>
+	<key>Update</key>
+	<string>更新</string>
+	<key>Quit</key>
+	<string>退出</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Quit LuLu?</key>
+	<string>退出 LuLu？</string>
+	<key>...this will terminate LuLu, until the next time you log in.</key>
+	<string>...这将终止 LuLu，直到您下次登录。</string>
+	<key>Protocol</key>
+	<string>协议</string>
+	<key>Interface</key>
+	<string>接口</string>
+	<key>State</key>
+	<string>状态</string>
+	<key>Bytes Up</key>
+	<string>上传字节</string>
+	<key>Bytes Down</key>
+	<string>下载字节</string>
+	<key>Established</key>
+	<string>已建立</string>
+	<key>Filter</key>
+	<string>过滤</string>
+	<key>Settings</key>
+	<string>设置</string>
+	<key>Expand</key>
+	<string>展开</string>
+	<key>Collapse</key>
+	<string>折叠</string>
+	<key>Save</key>
+	<string>保存</string>
+</dict>
+</plist> 

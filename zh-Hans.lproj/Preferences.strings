@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2qr-2x-A3U.title</key>
+	<string>立即检查</string>
+	<key>4EN-j2-enV.title</key>
+	<string>阻止模式</string>
+	<key>5Wo-JL-Khb.title</key>
+	<string>是否为新连接创建规则？</string>
+	<key>6gH-HW-CFe.title</key>
+	<string>允许已安装的第三方程序。</string>
+	<key>6vU-GO-opk.title</key>
+	<string>注意：当建立新连接时，有时只能获取 IP 地址。在这种情况下，允许列表或阻止列表中的域名将无法匹配，这会影响请求是被阻止还是允许。</string>
+	<key>7iJ-xR-xDI.title</key>
+	<string>本地或远程文件，包含始终要阻止的端点。</string>
+	<key>Bdp-Z8-BhB.title</key>
+	<string>本地或远程文件，包含始终要阻止的端点。</string>
+	<key>Cfj-2E-dIA.title</key>
+	<string>查看规则</string>
+	<key>CqC-4v-5d3.title</key>
+	<string>已允许</string>
+	<key>E0T-Ug-P8f.title</key>
+	<string>静默运行无提示，应用现有规则。</string>
+	<key>Emd-wS-UQh.title</key>
+	<string>阻止列表：</string>
+	<key>F0z-JX-Cv5.title</key>
+	<string>LuLu 设置</string>
+	<key>FE3-Li-d3K.title</key>
+	<string>允许列表：</string>
+	<key>Fut-ad-zCW.title</key>
+	<string>浏览</string>
+	<key>GsR-9d-5N8.title</key>
+	<string>新连接应该：</string>
+	<key>JV5-cY-ff4.title</key>
+	<string>不自动检查新版本。</string>
+	<key>JVI-Or-h0u.title</key>
+	<string>被动模式</string>
+	<key>JwN-0v-5Uh.title</key>
+	<string>否</string>
+	<key>M8X-n4-v2d.title</key>
+	<string>允许 Apple 签名的二进制文件。</string>
+	<key>SG5-YM-BoV.title</key>
+	<string>所有通过 LuLu 路由的流量都将被阻止（除非端点明确在"允许列表"中）。</string>
+	<key>Shu-Wz-4ax.title</key>
+	<string>允许 Apple 程序</string>
+	<key>Twx-TJ-y2Q.label</key>
+	<string>规则</string>
+	<key>Twx-TJ-y2Q.paletteLabel</key>
+	<string>规则</string>
+	<key>Uqq-dW-xf2.title</key>
+	<string>允许模拟器应用程序</string>
+	<key>W6X-IU-31r.title</key>
+	<string>浏览</string>
+	<key>bYB-s1-S3f.title</key>
+	<string>在状态菜单栏中运行时不显示图标。</string>
+	<key>e5A-iH-fS4.title</key>
+	<string>是</string>
+	<key>e6s-dd-HG6.title</key>
+	<string>将允许在模拟器中运行的应用程序。</string>
+	<key>iOJ-Bc-hxG.title</key>
+	<string>无图标模式</string>
+	<key>iYm-DO-gHs.title</key>
+	<string>将允许端口 53 上的所有 (UDP) 流量。</string>
+	<key>jvT-uI-uNq.title</key>
+	<string>允许已安装的程序</string>
+	<key>k0w-Oi-kwd.label</key>
+	<string>模式</string>
+	<key>k0w-Oi-kwd.paletteLabel</key>
+	<string>模式</string>
+	<key>mCn-AV-g9h.title</key>
+	<string>已阻止</string>
+	<key>pGG-dq-qkU.label</key>
+	<string>更新</string>
+	<key>pGG-dq-qkU.paletteLabel</key>
+	<string>更新</string>
+	<key>rrF-xj-cXp.label</key>
+	<string>列表</string>
+	<key>rrF-xj-cXp.paletteLabel</key>
+	<string>列表</string>
+	<key>wED-Z0-197.title</key>
+	<string>允许 DNS 流量</string>
+	<key>z5b-fA-WCk.title</key>
+	<string>禁用更新检查</string>
+</dict>
+</plist> 

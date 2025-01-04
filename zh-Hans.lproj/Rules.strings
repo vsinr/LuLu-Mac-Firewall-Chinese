@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2yS-Gr-1bI.title</key>
+	<string>标签</string>
+	<key>7zm-Uo-lwv.title</key>
+	<string>项目名称</string>
+	<key>BsU-Gh-mch.title</key>
+	<string>文本单元格</string>
+	<key>DWG-ck-lDk.placeholderString</key>
+	<string>过滤规则</string>
+	<key>F0z-JX-Cv5.title</key>
+	<string>LuLu 规则</string>
+	<key>F7G-1t-415.label</key>
+	<string>自定义视图</string>
+	<key>F7G-1t-415.paletteLabel</key>
+	<string>自定义视图</string>
+	<key>YzL-Xb-QI1.title</key>
+	<string>第三方规则</string>
+	<key>b9m-wt-VZa.title</key>
+	<string>最近规则</string>
+	<key>cvb-ds-FcC.title</key>
+	<string>用户规则</string>
+	<key>mQo-bf-aNx.headerCell.title</key>
+	<string>规则</string>
+	<key>omZ-DL-6R7.title</key>
+	<string>所有规则</string>
+	<key>qNT-HP-XkH.title</key>
+	<string>Apple 规则</string>
+	<key>qbv-z3-4PI.title</key>
+	<string>项目详情...</string>
+	<key>rEm-hF-r0T.title</key>
+	<string>默认规则</string>
+	<key>tZf-9e-yHh.title</key>
+	<string>连接信息</string>
+	<key>vD6-Bk-elz.title</key>
+	<string>正在（重新）加载规则...</string>
+	<key>wLE-Rk-GOf.title</key>
+	<string>添加规则</string>
+</dict>
+</plist> 

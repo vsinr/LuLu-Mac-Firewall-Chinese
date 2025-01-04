@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3aO-AI-YtY.title</key>
+	<string>此选项将允许任何已安装的第三方应用程序访问网络而不会触发警报。</string>
+	<key>7pD-BH-c8i.title</key>
+	<string>感谢 "Objective-See 之友"</string>
+	<key>C1V-iy-oEo.title</key>
+	<string>1. 在"系统扩展已阻止"警报中，点击："打开系统设置"</string>
+	<key>Cwe-NI-HiJ.title</key>
+	<string>首先，允许 LuLu 的网络扩展：</string>
+	<key>EOD-Hh-8e5.title</key>
+	<string>…</string>
+	<key>F0z-JX-Cv5.title</key>
+	<string>LuLu</string>
+	<key>QA3-Ww-PeC.title</key>
+	<string>否</string>
+	<key>Qyh-uK-Afv.title</key>
+	<string>欢迎使用</string>
+	<key>Re5-aD-QVR.title</key>
+	<string>是！</string>
+	<key>SWc-iv-oN4.title</key>
+	<string>允许 DNS 流量</string>
+	<key>Uzd-7P-dzG.title</key>
+	<string>免费、开源，由一位热爱 Mac 的独立开发者开发！</string>
+	<key>VIe-9o-Kc7.title</key>
+	<string>等待系统扩展批准</string>
+	<key>XBE-gW-YkK.title</key>
+	<string>支持我们？</string>
+	<key>XHD-XH-wR0.title</key>
+	<string>现在，让我们配置 LuLu：</string>
+	<key>YXa-F3-XSG.title</key>
+	<string>下一步</string>
+	<key>ZZK-2G-iIB.title</key>
+	<string>3. 验证身份</string>
+	<key>eic-lg-Ln7.title</key>
+	<string>监控网络活动，并在程序首次尝试建立出站连接时发出警报，让您可以选择允许或拒绝。</string>
+	<key>pMo-Yj-XKY.title</key>
+	<string>LuLu 是一个免费、开源的 macOS 防火墙。</string>
+	<key>qNj-Zh-8FW.title</key>
+	<string>支持 LuLu？</string>
+	<key>qYE-G3-j1K.title</key>
+	<string>4. 在"过滤网络内容"警报中，点击："允许"</string>
+	<key>r1b-Nl-Ii7.title</key>
+	<string>此选项将允许任何由 Apple 签名的二进制文件访问网络而不会触发警报。</string>
+	<key>sAE-Mf-3fz.title</key>
+	<string>此选项将允许端口 53 上的所有（UDP）流量。</string>
+	<key>xbU-XH-hYT.title</key>
+	<string>下一步</string>
+	<key>ymJ-tB-qiA.title</key>
+	<string>允许已安装的程序</string>
+	<key>zo1-a0-tPg.title</key>
+	<string>允许 Apple 程序</string>
+</dict>
+</plist> 

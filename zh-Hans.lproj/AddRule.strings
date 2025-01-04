@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>5ic-Om-d8g.title</key>
+	<string>远程端口</string>
+	<key>7yf-wW-FZC.title</key>
+	<string>远程地址/域名</string>
+	<key>F0z-JX-Cv5.title</key>
+	<string>添加规则（用于出站连接）</string>
+	<key>FCA-Cv-yT3.title</key>
+	<string>正则表达式？</string>
+	<key>JJl-Lz-apr.title</key>
+	<string>阻止</string>
+	<key>OoX-aE-Hgf.title</key>
+	<string>浏览</string>
+	<key>QWe-2U-lfn.placeholderString</key>
+	<string>*</string>
+	<key>V5P-DF-wCP.title</key>
+	<string>添加</string>
+	<key>fX0-Jq-Okq.title</key>
+	<string>取消</string>
+	<key>kXW-Xv-Fc4.placeholderString</key>
+	<string>*</string>
+	<key>oCK-aR-Ek4.title</key>
+	<string>允许</string>
+	<key>tc1-pS-Wns.title</key>
+	<string>程序路径</string>
+</dict>
+</plist> 
