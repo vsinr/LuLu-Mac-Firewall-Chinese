@@ -2,6 +2,8 @@
 
 这是 [macOS 平台上的免费开源防火墙软件LuLu](https://github.com/objective-see/LuLu) 的中文（简体）汉化包。
 
+英文原版地址 https://github.com/objective-see/LuLu
+
 ## 关于 LuLu
 
 LuLu 是 macOS 平台上的免费开源防火墙，由 Objective-See 开发。
@@ -45,7 +47,7 @@ LuLu 是 macOS 平台上的免费开源防火墙，由 Objective-See 开发。
 本仓库包含了 LuLu 的简体中文翻译文件，位于 `zh-Hans.lproj` 目录下。
 
 ## 使用方法
-首先确保LuLu 应用程序能正常运行，然后退出LuLu 应用程序，然后执行以下步骤：
+首先确保安装了[原版LuLu 3.0.0版本的应用程序](https://github.com/objective-see/LuLu/releases/tag/v3.0.0)并且已经正常运行，然后退出LuLu 应用程序，然后执行以下步骤：
 1. 下载本仓库中的 `zh-Hans.lproj` 文件夹
 2. 找到已安装的 LuLu 应用程序（通常在 `/Applications` `应用程序` 目录下）
 3. 右键点击 LuLu 应用程序，选择"显示包内容"
@@ -67,11 +69,11 @@ LuLu 是 macOS 平台上的免费开源防火墙，由 Objective-See 开发。
 汉化不易，如果您觉得这个汉化对您有帮助，欢迎赞赏，感谢您的支持！
 
 <div align="center">
-  <img src="images/sponsor_wechat.jpg" alt="微信赞赏码" width="300" />
+  <img src="images/微信赞赏码.jpg" alt="微信赞赏码" width="300" />
   <br/>
   <p>微信赞赏码</p>
   <br/>
-  <img src="images/sponsor_alipay.jpg" alt="支付宝收款码" width="300" />
+  <img src="images/支付宝收款码.jpg" alt="支付宝收款码" width="300" />
   <br/>
   <p>支付宝收款码</p>
 </div> 
