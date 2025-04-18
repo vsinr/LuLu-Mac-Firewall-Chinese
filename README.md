@@ -1,4 +1,6 @@
-# LuLu Mac防火墙 中文汉化包
+# LuLu_3.1.5版本已经自带中文，大家更新即可，谢谢
+
+#LuLu Mac防火墙 中文汉化包
 
 这是 [LuLu](https://github.com/objective-see/LuLu) 的中文（简体）汉化包。
 
@@ -67,16 +69,3 @@ LuLu 是 macOS 平台上的免费开源防火墙软件，由 Objective-See 开�
 本项目采用与原项目相同的开源协议。
 转载或使用本项目内容时请注明出处，谢谢！
 
-## 赞助支持
-
-汉化不易，如果您觉得这个汉化对您有帮助，欢迎赞赏，感谢您的支持！
-
-<div align="center">
-  <img src="images/微信赞赏码.jpg" alt="微信赞赏码" width="300" />
-  <br/>
-  <p>微信赞赏码</p>
-  <br/>
-  <img src="images/支付宝收款码.jpg" alt="支付宝收款码" width="300" />
-  <br/>
-  <p>支付宝收款码</p>
-</div> 
